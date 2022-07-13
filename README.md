@@ -1,6 +1,5 @@
-# aska = Website forum
+# ASKA merupakan website forum sederhana yang masih dalam pengembanngan.
 
-ASKA merupakan website forum sederhana yang masih dalam pengembanngan.
 Teknologi yang di pakai :
 - HTML, CSS, JS, PHP
 - Bootstrap 5
