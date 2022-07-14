@@ -42,7 +42,7 @@
 
                 <div class="threads-list">
                     <div class="card-body py-3 games">
-                        <div class="row no-gutters align-items-center" style="width:1100px;">
+                        <div class="row no-gutters align-items-center maxw">
                             <div class="col"> 
                                 <a href="javascript:void(0)" class="text-big" data-abc="true"
                                 >How can i change the username?
@@ -71,7 +71,7 @@
 
                     
                     <div class="card-body py-3 games">
-                        <div class="row no-gutters align-items-center" style="width:1100px;">
+                        <div class="row no-gutters align-items-center maxw">
                             <div class="col">
                                 <a href="javascript:void(0)" class="text-big" data-abc="true"
                                 >How to change the theme to dark mode?</a> 
@@ -99,7 +99,7 @@
                     </div>
 
                     <div class="card-body py-3 beauty">
-                        <div class="row no-gutters align-items-center" style="width:1100px;">
+                        <div class="row no-gutters align-items-center maxw">
                             <div class="col">
                                 <a href="javascript:void(0)" class="text-big" data-abc="true"
                                 >How to change the theme to dark mode?</a> 
@@ -127,7 +127,7 @@
                     </div>
 
                     <div class="card-body py-3 beauty">
-                        <div class="row no-gutters align-items-center" style="width:1100px;">
+                        <div class="row no-gutters align-items-center maxw">
                             <div class="col">
                                 <a href="javascript:void(0)" class="text-big" data-abc="true"
                                 >How to change the theme to dark mode?</a> 
@@ -155,7 +155,7 @@
                     </div>
 
                     <div class="card-body py-3 photography">
-                        <div class="row no-gutters align-items-center" style="width:1100px;">
+                        <div class="row no-gutters align-items-center maxw">
                             <div class="col">
                                 <a href="javascript:void(0)" class="text-big" data-abc="true"
                                 >How to change the theme to dark mode?</a> 
@@ -183,7 +183,7 @@
                     </div>
 
                     <div class="card-body py-3 internet">
-                        <div class="row no-gutters align-items-center" style="width:1100px;">
+                        <div class="row no-gutters align-items-center maxw">
                             <div class="col">
                                 <a href="javascript:void(0)" class="text-big" data-abc="true"
                                 >How to change the theme to dark mode?</a> 
