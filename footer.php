@@ -66,6 +66,12 @@
                     <i class="fab fa-instagram"></i>
                   </a>
                 </li>
+                <li>
+                  <a href="ttps://github.com/maulanadata/aska" target="_blank"
+                  class="text-white text-decoration-none fs-4 me-4" >
+                    <i class="fab fa-github"></i>
+                  </a>
+                </li>
               </ul>
             </div>
           </div>
