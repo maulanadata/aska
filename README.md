@@ -8,8 +8,7 @@ Teknologi yang di pakai :
 - isotope.js (library js untuk filtering)
 
 Anggota :
-- 
+- Mahmud Yunus
 - Mohamad Wildan Maulana
-- 
   
 # Live Demo
