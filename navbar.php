@@ -9,16 +9,16 @@
           <a class="nav-link active" aria-current="page" href="index.php">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Internet</a>
+          <a class="nav-link active" aria-current="page" href="./forum/index.html">Internet</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Beauty</a>
+          <a class="nav-link active" aria-current="page" href="./forum3/index.html">Beauty</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Games</a>
+          <a class="nav-link active" aria-current="page" href="./forum4/index.html">Games</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Photography</a>
+          <a class="nav-link active" aria-current="page" href="./forum2/index.html">Photography</a>
         </li>
         
       </ul>
